@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.column {
+    border: 1px solid purple;
+    background-color: orange;
+    width: 32px;
+    height: 32px;
+}
